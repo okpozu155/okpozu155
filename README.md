@@ -1,4 +1,5 @@
 ## Hi there 👋
+- 🌱 I’m currently learning Machine Learning specifically Pytorch library, and i'm willing to collaborate on any task or work that will enhance that
 
 <!--
 **okpozu155/okpozu155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
